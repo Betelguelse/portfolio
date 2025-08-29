@@ -17,6 +17,14 @@ Aqui você vai encontrar projetos, experimentos e estudos nas áreas de **progra
 
 ---
 
+## Preview do Portfolio
+
+<p align="center">
+    <img witdh="460" height="300" src="prototipo-do-site/portfolio.gif">
+</p>
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
